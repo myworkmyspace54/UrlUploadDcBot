@@ -16,7 +16,7 @@
   ],
   "success_url": "https://t.me/groupdcbots",
   "website": "https://github.com/selfie-bd",
-  "repository": "https://github.com/selfie-bd/UrlUploadDcBot",
+  "repository": "https://github.com/myworkmyspace54/UrlUploadDcBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
